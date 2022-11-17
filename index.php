@@ -219,7 +219,7 @@
 
 		<div class="row" style="height:auto; background-color: white; position: sticky; top: 0; z-index: 9;" >
 			<span class="fa-solid fa-bars" style="width: 5%; font-size: 30px; cursor: pointer; padding: 15px;" id="side"></span>
-			<h1 class="title">Welcome to the PAGE</h1>
+			<h1 class="title">Welcome</h1>
 		</div>
 		<div class="row">
 			<div class="sidebar">
